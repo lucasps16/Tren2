@@ -1,0 +1,7 @@
+Ride Status 
+DATE:25/3/2014
+4 10
+25/3/2014
+A1, Juan Perez, 11757545, Pedro Perez, 124352345, Mario Perez, 135756746, Jorge Perez, 14465675
+A2, Ana Gil, 217685656, Liz Gil, 22786446, Luz Gil, 234337898, Sol Gil, 2423346788, Ruth Gil, 24878557
+A3, Laura Rojas, 314696554, David Rojas, 33568992
